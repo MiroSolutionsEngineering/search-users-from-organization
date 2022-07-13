@@ -1,4 +1,4 @@
-# Examples for the Looker SDKs
+# Search Users from Organization
 This is a sample web application for Miro administrators using RestAPI and SCIM API using Node.js and express framework.
 
 ## Getting started
