@@ -1,3 +1,7 @@
+## Support
+This is a sample code and can be freely modified and used, but cannot be supported by Miro.
+We are not responsible for its behavior. Also, this code is not maintained.
+
 # Search Users from Organization
 This is a sample web application for Miro administrators using RestAPI and SCIM API using Node.js and express framework.
 It shows all user list in your organizaition and you can filter and deactivate/activate users by inactive date. 
@@ -48,7 +52,4 @@ npm start
 - [Users](https://developers.miro.com/docs/users)
 - [Errors](https://developers.miro.com/docs/errors)
 
-## Support
-This is a sample code and can be freely modified and used, but cannot be supported by Miro.
-We are not responsible for its behavior. Also, this code is not maintained.
 
