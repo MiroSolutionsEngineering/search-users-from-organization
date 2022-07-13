@@ -1,3 +1,9 @@
+// ===================================================
+//  The sample code provided below is subject to 
+//  the Miro Developer Terms of Use
+//  : https://miro.com/legal/developer-terms-of-use/
+// ===================================================
+
 // =======================
 // get instance we need
 // =======================

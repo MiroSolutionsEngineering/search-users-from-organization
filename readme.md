@@ -1,6 +1,8 @@
 ## Support
-This is a sample code and can be freely modified and used, but cannot be supported by Miro.
-We are not responsible for its behavior. Also, this code is not maintained.
+  **Important**: Please be kindly advised that the sample codes provided are provided as examples only and are subject to the [Miro Developer Terms of Use](https://miro.com/legal/developer-terms-of-use/.). 
+And it cannot be supported by Miro and also is not maintained.
+Any code deployed is at your own discretion and full responsibility and is to be thoroughly tested on your side before releasing to production.
+
 
 # Search Users from Organization
 This is a sample web application for Miro administrators using RestAPI and SCIM API using Node.js and express framework.
