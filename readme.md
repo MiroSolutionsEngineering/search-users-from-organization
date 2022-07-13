@@ -1,5 +1,6 @@
 # Search Users from Organization
 This is a sample web application for Miro administrators using RestAPI and SCIM API using Node.js and express framework.
+It shows all user list in your organizaition and you can filter and deactivate/activate users by inactive date. 
 
 ## Getting started
 1. Follow [this document](https://developers.miro.com/docs/getting-started-with-oauth) and acquire an access token that can be used to make calls to the [Miro REST API](https://developers.miro.com/reference/api-reference).
