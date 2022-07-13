@@ -13,6 +13,7 @@ Required permission : [organizations:read](https://developers.miro.com/reference
 3. Clone [the repo](https://github.com/MiroSolutionsEngineering/search-users-from-organization.git) and install the dependencies.
 ```
 git clone https://github.com/MiroSolutionsEngineering/search-users-from-organization.git
+cd search-users-from-organization
 npm install
 ```
 4. Rewrite ORG_ID, TOKEN, and SCIMTOKEN in the .env file to your environment.
